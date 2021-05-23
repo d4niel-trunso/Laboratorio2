@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "este es el nuevo sistema de gestion " << endl;
     return 0;
 }

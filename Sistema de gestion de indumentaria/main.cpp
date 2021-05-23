@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "este es el nuevo sistema de gestion " << endl;
+    cout << "este es el nuevo sistsema de gestion " << endl;
     return 0;
 }

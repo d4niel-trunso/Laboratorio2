@@ -50,3 +50,54 @@
 	<cstdlib>
 	"rlutil.h"
 
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\fecha.cpp
+	"Fecha.h"
+	"FuncionesGlobales.h"
+	<cstdlib>
+	"rlutil.h"
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\fecha.h
+	<iostream>
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\funcionesglobales.h
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\funcionesglobales.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\main.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\persona.h
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\persona.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"Persona.h"
+	"Fecha.h"
+	"FuncionesGlobales.h"
+

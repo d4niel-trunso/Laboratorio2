@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1621821960 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\persona.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"Persona.h"
+	"Fecha.h"
+	"FuncionesGlobales.h"
+
+1621821882 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\persona.h
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+
+1621821493 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\funcionesglobales.h
+
+1621821838 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\funcionesglobales.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+
+1621815151 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\main.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1621821882 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\fecha.h
+	<iostream>
+
+1621821662 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1621821838 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\fecha.cpp
+	"Fecha.h"
+	"FuncionesGlobales.h"
+	<cstdlib>
+	"rlutil.h"
+

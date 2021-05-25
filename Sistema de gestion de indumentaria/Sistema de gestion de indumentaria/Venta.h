@@ -2,33 +2,8 @@
 #define VENTA_H_INCLUDED
 #include <iostream>
 #include <cstring>
-
+#include "Fecha.h"
 using namespace std;
-
-///CLASE FECHA
-
-class Fecha{
-private:
-    int dia, mes, anio;
-public:
-    void Cargar();
-    void Mostrar();
-
-};
-
-void Fecha::Cargar(){
-cout<<"DIA: ";
-cin>>dia;
-cout<<"MES: ";
-cin>>mes;
-cout<<"ANIO: ";
-cin>>anio;
-}
-
-void Fecha::Mostrar(){
-cout<<dia<<"/"<<mes<<"/"<<anio;
-
-}
 
 ///CLASE DE VENTA
 

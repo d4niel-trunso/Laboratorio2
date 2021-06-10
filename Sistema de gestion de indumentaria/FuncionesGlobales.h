@@ -1,0 +1,6 @@
+#ifndef FUNCIONESGLOBALES_H_INCLUDED
+#define FUNCIONESGLOBALES_H_INCLUDED
+
+void error_msj(int cod, int i);
+
+#endif // FUNCIONESGLOBALES_H_INCLUDED

@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1623354659 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\persona.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"Persona.h"
+	"FuncionesGlobales.h"
+
+1622590094 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\persona.h
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+
+1621982703 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\funcionesglobales.h
+
+1622589530 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\funcionesglobales.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+
+1623359523 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\main.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+	"Menu.h"
+
+1621982703 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\fecha.h
+	<iostream>
+
+1621982703 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622595422 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\fecha.cpp
+	"Fecha.h"
+	"FuncionesGlobales.h"
+	<cstdlib>
+	"rlutil.h"
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\fecha.cpp
+	"Fecha.h"
+	"FuncionesGlobales.h"
+	<cstdlib>
+	"rlutil.h"
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\fecha.h
+	<iostream>
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\funcionesglobales.h
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\funcionesglobales.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\main.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1621908291 c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\persona.h
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+
+1621908291 source:c:\users\tomyb\onedrive\documentos\github\laboratorio2\sistema de gestion de indumentaria\sistema de gestion de indumentaria\persona.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"Persona.h"
+	"Fecha.h"
+	"FuncionesGlobales.h"
+
+1622595143 source:c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\fecha.cpp
+	"Fecha.h"
+	"FuncionesGlobales.h"
+	<cstdlib>
+	"rlutil.h"
+
+1621982703 c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\fecha.h
+	<iostream>
+
+1621982703 c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\funcionesglobales.h
+
+1621982703 c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622589530 source:c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\funcionesglobales.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+
+1622588874 source:c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\main.cpp
+	<iostream>
+	<cstdlib>
+	"Persona.h"
+
+1622590094 c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\persona.h
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+
+1622595119 source:c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\persona.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"Persona.h"
+	"FuncionesGlobales.h"
+
+1622590119 source:c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+
+1622586594 c:\users\usuario\desktop\labo 2\laboratorio2-main\sistema de gestion de indumentaria\sistema de gestion de indumentaria\cliente.h
+	<cstring>
+	"rlutil.h"
+	"Persona.h"
+
+1623359473 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\cliente.cpp
+	"Cliente.h"
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+	"Cliente.h"
+
+1623354659 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\cliente.h
+	<cstring>
+	"rlutil.h"
+	"Persona.h"
+
+1623349685 c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\menu.h
+
+1623354751 source:c:\users\usuario\desktop\labo 2\sistema de gestion de indumentaria\menu.cpp
+	"Menu.h"
+	"Cliente.h"
+	<cstdlib>
+	<cstring>
+	"rlutil.h"
+

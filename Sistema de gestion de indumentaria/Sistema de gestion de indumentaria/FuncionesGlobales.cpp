@@ -7,7 +7,7 @@ using namespace rlutil;
 using namespace std;
 
 void error_msj(int cod, int i)/// A COMPLETAR, CADA UNO AGREGA ERRORES QUE NECESITE, SOLO SER A AGREGAR CASES AL SWITCH.
-/// ES UTIL PARA SIMPLIFICAR EL C DIGO.
+/// ES UTIL PARA SIMPLIFICAR EL CODIGO.
 {
     switch(cod)
     {

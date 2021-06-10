@@ -15,8 +15,8 @@ int Fecha::CargarFecha()
     int error=0,i=0,aux;
     while (error!=0||error!=1)
     {
-        cout<<"Ingrese Fecha "<<endl;
-        cout<<"Fecha a Buscar (d/m/a):"<<endl;
+        //cout<<"Ingrese Fecha "<<endl;
+        cout<<"Fecha de nacimiento (dd/mm/aaaa):"<<endl;
         cin>>aux;
         setDia(aux);
         cout<<"/";
@@ -30,8 +30,8 @@ int Fecha::CargarFecha()
         {
             i++;
             error_msj(-2,i);
-            cin.get();
-            system("cls");
+            anykey();
+            cls();
         }
         else
             break;
@@ -39,9 +39,11 @@ int Fecha::CargarFecha()
     return error;
 
 };
-int Fecha :: ValidarFecha()
+int Fecha::ValidarFecha()
 {
-    if(mes==0&&dia==0&&anio==0)
+    if(dia == 'a')
+        cout << "error";
+    if(mes == 0 && dia == 0 && anio == 0)
         return 1;
     if((mes>0&&mes<13)&&(anio>1910&&anio<=2020))
     {
@@ -132,7 +134,7 @@ void AsignarOrdenaFechas(Fecha *reg1,Fecha *reg2)
 };
 void Fecha:: mostrar()
 {
-    cout<<dia<<"/"<<mes<<"/"<<anio<<endl;
+    cout << "Fecha de nacimiento: "<<dia<<"/"<<mes<<"/"<<anio<<endl;
 };
 
 

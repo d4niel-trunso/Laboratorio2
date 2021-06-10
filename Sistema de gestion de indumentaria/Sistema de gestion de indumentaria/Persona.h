@@ -5,26 +5,26 @@
 using namespace rlutil;
 #include "Fecha.h"
 
-class Persona
+class Persona:public Fecha
 {
     protected:
-        int ID;
+        char DNI[12];
         char Apellidos[50];
         char Nombres[50];
-        Fecha fechaNac;
+        //Fecha fechaNac;
         bool Estado;
 
     public:
-        int getID(){return ID;}
+        char* getDNI(){return DNI;}
         char* getApellidos(){return Apellidos;}
         char* getNombres(){return Nombres;}
-        Fecha getfechaNac(){return fechaNac;}
+        //Fecha getfechaNac(){return fechaNac;}
         bool getEstado(){return Estado;}
-        void setID(int);
+        void setDNI(char *dni){strcpy(DNI, dni);}
         void setApellidos(char *a){strcpy(Apellidos,a);}
-        void setNombres(char *a){strcpy(Nombres,a);}
-        int setFecha();
-        void setFecha(Fecha aux){fechaNac = aux;}
+        void setNombres(char *n){strcpy(Nombres,n);}
+        //int setFecha();
+        //void setFecha(Fecha aux){fechaNac = aux;}
         void setEstado(bool nuevoEstado){Estado = nuevoEstado;}
         void cargar();
         void mostrar();

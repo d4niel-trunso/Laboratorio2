@@ -1,3 +1,3 @@
 # Laboratorio2
 
-hacer la iterfaz
+Ahora va queriendo!!!
